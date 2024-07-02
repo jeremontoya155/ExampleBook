@@ -1,0 +1,14 @@
+/* src/components/HotelCatalog.css */
+.hoteles-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .hotel-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    width: calc(33% - 32px);
+    box-sizing: border-box;
+  }
+  
